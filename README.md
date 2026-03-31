@@ -1,6 +1,5 @@
 ### Hi there, I am (Luiz) Eduardo, nice to meet you!
-#### I am a designer who just started to jump into the programming world.
-#### My goal is not to be capable of doing everything by myself, but to become stronger, more reliable and resilient by knowing various aspects on how to make innovative, creative and solid solutions.
+#### My goal is not to be capable of doing everything by myself, knowing various aspects on how to make innovative, creative and solid solutions.
 
 #### Able to code with
 <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" /> <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript" /> <img src="https://img.shields.io/badge/-Python-green?logo=python" />
