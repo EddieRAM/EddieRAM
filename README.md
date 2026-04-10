@@ -1,5 +1,5 @@
 ### Hi there, I am (Luiz) Eduardo, nice to meet you!
-#### My goal is not to be capable of doing everything by myself, knowing various aspects on how to make innovative, creative and solid solutions.
+#### My goal is not to be capable of doing everything by myself, but knowing various aspects on how to make innovative, creative and solid solutions.
 
 #### Able to code with
 <img src="https://img.shields.io/badge/-CSharp-blue?logo=.net" />  <img src="https://img.shields.io/badge/-Angular-red?logo=angular" /> <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript" /><img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="http://img.shields.io/badge/-SQL-white?logo=sql" /> <img src="http://img.shields.io/badge/-Postgres-black?logo=postgresql" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" />  <img src="https://img.shields.io/badge/-Python-green?logo=python" /> 
